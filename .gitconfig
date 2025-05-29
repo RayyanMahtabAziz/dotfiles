@@ -1,0 +1,6 @@
+[user]
+    name = Rayyan Mahtab
+    email = rayyan.mahtab@gmail.com
+
+[core]
+    editor = code --wait
